@@ -5,14 +5,14 @@
 
 
 // function run(e) {
-//     // console.log(e.which)
-//     console.log(e.key)
+//     // console.log(e.which)         //which tıklayınca ascii tablosu
+//     console.log(e.key)              // key bastıgn tus 
 // }
 
 
 //keydown
-// document.addEventListener("keydown", run)
-
+// document.addEventListener("keydown", run)       //arrowup vs. gösteriyor 
+                                                   // bastıgın an
 
 // function run(e) {
 //     // console.log(e.which)
@@ -20,7 +20,7 @@
 // }
 
 
-//keyup
+//keyup                                         // bıraktıgın an tetikleniyor
 
 // document.addEventListener("keyup", run)
 
